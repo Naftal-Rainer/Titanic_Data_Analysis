@@ -1,5 +1,7 @@
 # TITANIC DATA ANALYSIS
 
+![image](https://user-images.githubusercontent.com/45267087/164946316-253113eb-b9c5-4963-bace-00749123f454.png)
+
 ### Problem Definition
 
 The major objectives of this analysis is to:
@@ -12,7 +14,7 @@ The major objectives of this analysis is to:
 
 ##### Data Source
 
-[Kaggle](https://Kaggle.com/titanic)
+[Kaggle](https://www.kaggle.com/c/titanic/data?select=test.csv)
 
 ##### Fields in the dataset
 
